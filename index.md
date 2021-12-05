@@ -2,7 +2,7 @@
 
 My name is Maximilian Weinhold and I am a postbaccalaureate researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. My interests are wide-ranging, but at the moment I'm particularly interested in how the brain encodes information about it's environment through local and global signals. This has started me on a journey deeper into information theory, signal processing, topological coding, and pairwise interactions. 
 
-![image](https://user-images.githubusercontent.com/95586072/144760646-0c6acd67-39d6-407a-8fc6-7a34e5ddcba2.jpg)
+![image](https://user-images.githubusercontent.com/95586072/144760964-e1ea55b9-4e64-4516-aac0-4cc40316215a.jpg)
 
 ### Research Interests
 
@@ -14,33 +14,3 @@ Trained as a physicist, I'm want to apply the principles of phase transitions, p
 
 Climate change is the greatest threat to our continued and current existence. Yet climate action offers the most profound avenue to improving the world and the lives of all those that inhabit it. With a combination of breakthrough technologies, innovative policy solutions, and cooperative perseverance, I believe that we can accomplish anything we set our collective mind to. 
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![image](https://user-images.githubusercontent.com/95586072/144760646-0c6acd67-39d6-407a-8fc6-7a34e5ddcba2.jpg)
-
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maximilianweinhold/maximilianweinhold.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
