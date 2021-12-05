@@ -2,6 +2,8 @@
 
 My name is Maximilian Weinhold and I am a postbaccalaureate researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. My interests are wide-ranging, but at the moment I'm particularly interested in how the brain encodes information about it's environment through local and global signals. This has started me on a journey deeper into information theory, signal processing, topological coding, and pairwise interactions. 
 
+![image](https://user-images.githubusercontent.com/95586072/144760646-0c6acd67-39d6-407a-8fc6-7a34e5ddcba2.jpg)
+
 ### Research Interests
 
 I'm passionate about integrating human technology and society with nature, believing that a balance can be struck between the drive for knowledge and technological progress and our relationship with the natural world. As such, I'm interested in the bi-directional flow between human technology and natural ecosystems, with engineering principles being applied from the natural world to improve the human condition, and human ingenuity being applied to protecting our place in the global ecosystem. 
@@ -11,6 +13,8 @@ I'm also fascinated in the way that constitutents interact among varying systems
 Trained as a physicist, I'm want to apply the principles of phase transitions, percolations, fluid flow, and fields to a variety of diverse phenomena. Nature is subtle but not malicious, and I aim to seek out the fundamental organizational principles of the world we live in. 
 
 Climate change is the greatest threat to our continued and current existence. Yet climate action offers the most profound avenue to improving the world and the lives of all those that inhabit it. With a combination of breakthrough technologies, innovative policy solutions, and cooperative perseverance, I believe that we can accomplish anything we set our collective mind to. 
+
+
 
 ```markdown
 Syntax highlighted code block
