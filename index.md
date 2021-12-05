@@ -1,4 +1,6 @@
-# Maximilian Weinhold 
+---
+Maximilian Weinhold 
+---
 
 Hello! My name is Maximilian Weinhold and I am a postbaccalaureate researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. My interests are wide-ranging, but at the moment I'm particularly interested in how the brain encodes information about it's environment through local and global signals. This has started me on a journey deeper into information theory, signal processing, topological coding, and pairwise interactions. 
 
