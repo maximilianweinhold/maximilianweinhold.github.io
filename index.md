@@ -8,19 +8,22 @@ Hello! My name is Max and I am a behavioral neuroscience researcher at the NIH, 
 •	Bishop, M., **Weinhold, M**., Turk, A., Adeck, A., SheikhBahaei, S. “An open source tool for automated analysis of breathing behaviors in common marmosets and rodents.” eLife, Jan. 2022. Doi: [10.7554/eLife.71647](https://elifesciences.org/articles/71647)
 
 
+
 ### Research Interests
 
-I'm passionate about integrating technological society with nature, believing that a balance can be struck between the drive for knowledge and technological progress and our relationship with the natural world. As such, I'm interested in the bi-directional flow between human technology and natural ecosystems, with engineering principles being applied from the natural world to improve the human condition, and human ingenuity being applied to protecting our place in the global ecosystem. 
+I'm passionate about integrating technological society with nature, believing that innovation must be measured in ecosystemic welfare, not merely societal. As such, I'm interested in the bi-directional flow between human technology and the natural world, with engineering principles being applied from nature to improve the human condition, and human ingenuity applied to protecting global ecosystems. 
 
-I'm also fascinated in the way that constitutents interact among varying systems, be it in the biosphere, neural circuits, internet connectivity, and social networks. The world is dominated by complex phenomena, in which a variety of parts interact to form an emergent whole. Understanding these phenomena will be a crucial step in developing the solutions to tomorrow's problems and revealing more about the world we live in. 
+I'm also fascinated about information flow in complex systems, be it in the biosphere, neural circuits, internet connectivity, and social networks. Harkening back to Shannon (1948), information is a universality that transcends the details of any particular system. 
 
-Trained as a physicist, I'm want to apply the principles of phase transitions, percolations, fluid flow, and fields to a variety of diverse phenomena. Nature is subtle but not malicious, and I aim to seek out the fundamental organizational principles of the world we live in. 
+Trained as a physicist, I'm want to seek out the hidden orders underlying diverse phenomena. With that, as a science communicator I work to develop analogies and tie-ins between initally disparate fields. 
 
-Climate change is the greatest threat to our continued and current existence. Yet climate action offers the most profound avenue to improving the world and the lives of all those that inhabit it. With a combination of breakthrough technologies, innovative policy solutions, and cooperative perseverance, I believe that we can accomplish anything we set our collective mind to. 
+Finally, as a global citizen and humanitarian, I work to promote the welfare of people, local and global, whenever I can. The greatest humanitarian crisis of our generation is the threat of climate change. Thus, I'm passionate about developing breakthrough solutions, ideas, and policy to help us tackle the problems of today and the challenges of tomorrow. 
+
+
 
 ### Personal Projects
 
-Currently, I'm designing a algae-cultivation bioreactor for carbon sequestration and biofuel development. I aim to develop a closed-loop system that 
+Currently, I'm designing a algae-cultivation bioreactor for carbon sequestration and biofuel development. I aim to develop a closed-loop system that drips algae-filled water onto a filter for continual harvesting and processing. 
 
-![image](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg "Algae Bioreactor")
+![Algae Bioreactor](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg)
 
