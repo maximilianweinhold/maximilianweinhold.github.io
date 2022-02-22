@@ -22,5 +22,5 @@ Climate change is the greatest threat to our continued and current existence. Ye
 
 Currently, I'm designing a algae-cultivation bioreactor for carbon sequestration and biofuel development. I aim to develop a closed-loop system that 
 
-![image](https://user-images.githubusercontent.com/95586072/155163143-908f0587-9caa-4ef7-a293-b293515325cc.jpg)
+![image](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg "Algae Bioreactor")
 
