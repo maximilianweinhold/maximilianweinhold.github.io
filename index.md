@@ -1,4 +1,6 @@
-Hello! My name is Max; I am a behavioral neuroscience researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical environment of marine ecosystems and the information processing systems of neural and _in silico_ computation.  
+### Hello! 
+
+I'm Max, a behavioral neuroscience researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical environment of marine ecosystems and the information processing systems of neural and _in silico_ computation.  
 
 ![image](https://user-images.githubusercontent.com/95586072/144760964-e1ea55b9-4e64-4516-aac0-4cc40316215a.jpg)
 
