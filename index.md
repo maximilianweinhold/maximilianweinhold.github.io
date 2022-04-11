@@ -1,6 +1,6 @@
 **Hello!**
 
-I'm Max, a behavioral neuroscience researcher at the NIH, working on neural circuits, vocalizations, and speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical environment of marine ecosystems and the information processing systems of neural and _in silico_ computation.  
+I'm Max, a behavioral neuroscience researcher at the NIH working on neural circuits, vocalizations, and speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical environment of marine ecosystems and the information processing systems of neural and _in silico_ computation.  
 
 ![image](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
@@ -15,9 +15,9 @@ I'm Max, a behavioral neuroscience researcher at the NIH, working on neural circ
 
 I'm passionate about integrating technological society with nature, believing that innovation must be measured in ecosystemic welfare, not merely societal. As such, I'm interested in the bi-directional flow between human technology and the natural world, with engineering principles being applied from nature to improve the human condition, and human ingenuity applied to protecting global ecosystems. 
 
-I'm also fascinated about information flow in complex systems, be it in the biosphere, neural circuits, internet connectivity, and social networks. Harkening back to Shannon (1948), information is a universality that transcends the details of any particular system, and thus allows a richer depth of understanding across countless fields. 
+I'm also fascinated by information flow in complex systems: be it in the biosphere, neural circuits, internet connectivity, and social networks. Harkening back to Shannon (1948), information is a universality that transcends the details of any particular system, and thus allows a richer depth of understanding across countless fields. 
 
-Trained as a physicist, I'm want to seek out the hidden orders underlying diverse phenomena. With that, as a science communicator I work to develop analogies and tie-ins between apparently disparate fields. 
+Trained as a physicist, I'm want to seek out the hidden orders underlying diverse phenomena. And as a science communicator I work to develop analogies and tie-ins between apparently disparate fields. 
 
 Finally, as a global citizen and humanitarian, I work to promote the welfare of people, local and global, whenever I can. The greatest humanitarian crisis of our generation is the threat of climate change. Thus, I'm passionate about developing breakthrough solutions, ideas, and policy to help us tackle the problems of today and the challenges of tomorrow. 
 
