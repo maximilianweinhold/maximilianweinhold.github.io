@@ -13,7 +13,7 @@ Hello! My name is Max; I am a behavioral neuroscience researcher at the NIH, wor
 
 I'm passionate about integrating technological society with nature, believing that innovation must be measured in ecosystemic welfare, not merely societal. As such, I'm interested in the bi-directional flow between human technology and the natural world, with engineering principles being applied from nature to improve the human condition, and human ingenuity applied to protecting global ecosystems. 
 
-I'm also fascinated about information flow in complex systems, be it in the biosphere, neural circuits, internet connectivity, and social networks. Harkening back to Shannon (1948), information is a universality that transcends the details of any particular system. 
+I'm also fascinated about information flow in complex systems, be it in the biosphere, neural circuits, internet connectivity, and social networks. Harkening back to Shannon (1948), information is a universality that transcends the details of any particular system, and thus allows a richer depth of understanding across countless fields. 
 
 Trained as a physicist, I'm want to seek out the hidden orders underlying diverse phenomena. With that, as a science communicator I work to develop analogies and tie-ins between apparently disparate fields. 
 
