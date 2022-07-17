@@ -2,7 +2,7 @@
 
 I'm Max, a behavioral neuroscience researcher at the NIH working on neural circuits, vocalizations, and speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical environment of marine ecosystems and the information processing systems of neural and _in silico_ computation.  
 
-Links to my work: [Essays](https://maximilianweinhold.github.io/essays/), [Publications](https://maximilianweinhold.github.io/Publications/), [Initatives](https://maximilianweinhold.github.io/initiatives/)
+## Links to my work: &emsp; [Essays](https://maximilianweinhold.github.io/essays/) &emsp; [Publications](https://maximilianweinhold.github.io/Publications/) &emsp; [Initatives](https://maximilianweinhold.github.io/initiatives/)
 
 ![image](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
