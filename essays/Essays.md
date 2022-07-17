@@ -2,7 +2,8 @@
 theme: jekyll-theme-tactile
 title: "Essays"
 permalink: /essays/
-description: "What follows is a selection of my essays. Constructive feedback is always appreciated, but please be civil!"
+description: "What follows is a selection of my essays. 
+Constructive feedback is always appreciated, but please be civil!"
 ---
 
 # A Vision for the Future
