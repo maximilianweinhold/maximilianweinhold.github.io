@@ -67,6 +67,22 @@ Thus, next time you bring out the lawnmower, consider leaving a small section fr
 
 </details>
 
+# In Defense of Mosquitoes
+<details>
+  <summary></summary>
 
+It’s time to rethink our perception of mosquitoes. Sure, the females may bite us to lay eggs, but the males are entirely uninterested in us. In fact, mosquitoes are a major ecosystem pollinator, as well as a food source for countless other animals (birds, spiders, bats, reptiles, amphibians; all important parts of effective biodiversity). Given that ¾ of all flowering plants, and over a third of the world’s food crops depend on pollinators, a population currently experiencing a deadly collapse, increasing the number of pollinators in an ecosystem is never a bad thing.  
 
+The poisons and pesticides we use to curb mosquito populations, while extremely effective, do untold harm to the rest of the insect population, and affect predator species that eat them due to poison accumulation. Much of the pesticide also gets in our food, our water, and even our air, and though we are much larger than mosquitoes, we are nonetheless affected through exposure.  
+
+While mosquito-borne diseases are undoubtably serious, most of the time in developed countries the problems are negligible. While there are sensational cases of Zika, West Nile, or Malaria, the chances of catching these diseases in modern, industrialized societies are practically nil, even for extreme-outdoorsy types.  
+
+Obviously, receiving a host of welts is never pleasant, but we have both preventative and treatment ointments and sprays that are extremely effective, and can isolate an individual from bites without attacking the entire ecosystem. There’s a difference between putting on protection before exploring the outdoors (comparable to putting on long pants for ticks or sunscreen before going to the beach) and gassing an entire ecosystem to make our yards as pristine as possible. Instead of individuals putting on sunscreen, what if a town decided to just use geo-engineering to inject aerosols into the atmosphere and artificially darken a region? This would have untold effects, with countless unknowns spreading across the biosphere.  
+
+And much like a sunburn, if we do forget our preventative measures our body will heal on its own within a few days, often aided by the same ointments and salves. Of course, repeated exposure can increase our risk, but after a particularly bad sunburn or many bites we usually won’t be so forgetful of our protection in the future.  
+
+Thus, next time you’re considering treating your yard to get rid of all mosquitoes, please consider the impact to your health and the ecosystem.  Mosquitoes certainly aren’t pleasant, but they are a necessary and crucial part of a functioning ecosystem, and of vital importance to your health and biodiversity.  
+
+	
+</details>
 
