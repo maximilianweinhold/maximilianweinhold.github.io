@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-tactile
-name: "Essays"
-title: null
+title: "Essays"
 permalink: /essays/
 ---
 
