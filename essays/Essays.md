@@ -2,7 +2,14 @@
 theme: jekyll-theme-tactile
 title: "Essays"
 permalink: /essays/
-description: "testing"
+description: "This is where I publish some of my essays"
 ---
 
-This is where I publish the essays I write in my spare time. 
+
+<script src="https://utteranc.es/client.js"
+        repo="maximilianweinhold.github.io/essays"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
