@@ -7,7 +7,7 @@ description: "This is where I publish some of my essays"
 
 
 <script src="https://utteranc.es/client.js"
-        repo="maximilianweinhold.github.io/essays"
+        repo="https://github.com/maximilianweinhold/maximilianweinhold.github.io.git"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
