@@ -1,5 +1,7 @@
 ---
-title: Essays
-layout: template
-filename: Essays .md FILE HERE
---- 
+layout: page
+title: "Essays"
+permalink: /essays/
+---
+
+This is where I publish the essays I write in my spare time. 
