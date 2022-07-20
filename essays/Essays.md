@@ -5,6 +5,20 @@ permalink: /essays/
 description: "What follows is a selection of my essays. 
 Constructive feedback is always appreciated, but please be civil!"
 ---
+# Changing Systems
+<details>
+  <summary></summary>
+	
+One of the defining challenges of the 21st century is how, as aptly put, to change the plane while flying it. In fact, this challenge resembles more than merely altering our existing schematics but switching aircraft design entirely. In other words, how to change a plane to a helicopter mid-flight (the helicopter analogy arises from Herman Daly, who likened transitioning from a growth-focused to steady-state economy as transitioning from a plane - which must always move forwards, lest it fall out of the sky – to a helicopter - which can hover like a hummingbird, moving backwards and forwards for the comfort and safety of its passengers)  <br/><br/>
+
+So how do you engineer a plane into a helicopter? You send people out on the wings, tethered to the fuselage to make inflight-repairs and adaptions. You install a rotor on top, angling it so it doesn’t get ripped off at the speeds you’re traveling. You make your way to the back and install a second rotor on the tail, once again angled away from the wind. Then, you must cross the point of no return. You cannot remain within a mutant configuration of helicopter and plane forever (Or perhaps you can, if multi-functionality is pre-built into the structure, with the ability to shift between modes when needed), for once you turn off and remove the engines, the plane slowly starts to fall, gliding lower and lower. As this happens, it must be all hands-on deck. The motors must be hooked up to the rotors, and you must wait until the right speed to turn them on. Too early, and the blades could get ripped off, too late and you risk crashing.  <br/><br/>
+
+The difficulty, however, comes not from the repairs themselves. You have top-notch engineers aboard, who have extensively modelled the transition and know the risks well. Instead, your challenge is knowing when to implement the changes. You hope you can remain a plane for as long as possible, soaring forward with no regard for what the future may bring. And yet there is a nagging notion you have that if you continue to fly without repairs it will inevitably end in catastrophe. The repairs are costly and risky, and you know there’s a slight chance that attempting to do so will cause the plane to plummet into a free-fall. The engineers say they are almost certain in their models, both in the plane’s dangerous destination and the repairs that are needed, but you know that if you wait these models, predictions, techniques, and technologies may continue to improve. Public opinion in the plane is likewise divided. Some believe that minor alterations are all that are needed, maybe comfier seats for the passengers or airfare reimburses, while others reason that we should be trying to shift into a hot air balloon. The airline dislikes any of these changes, fearing an impact on profitability, and will try its hardest to keep the plane as it is until government, the market, or the public demands it.  <br/><br/>
+
+So, what do you do? Do you give the order to begin alterations, knowing that doing so will garner the airline’s animosity and will be too little for some passengers but too much for others? Do you embrace the smaller risk of present collapse to stave off an increasingly certain future one? How long can you keep flying before you must reach a decision? With every passing moment your timeline is shorter, your alterations more extensive, and the risks greater. Increasingly soon, you must decide.  <br/><br/>
+
+  </details>
+
 
 # A Vision for the Future
 <details>
