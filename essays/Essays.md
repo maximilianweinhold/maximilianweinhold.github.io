@@ -5,6 +5,14 @@ permalink: /essays/
 description: "What follows is a selection of my essays. 
 Constructive feedback is always appreciated, but please be civil!"
 ---
+# Art for Biology
+<details>
+  <summary></summary>
+	
+Art is a pivotal component of science. The covers of Nature and Science frequently showcase beautiful images, from photo-realistic cellular renders, sweeping landscapes, swirling patterns, and glowing biomolecules. Yet while most scientists labor to include some particularly illustrative figures in their paper, they rarely engage in acts of artistic creation for their own right. Largely gone are the days of Ramón y Cajal’s beautiful sketches of dendritic arbors or the mesmerizingly fantastic botanical works of Ernst Haeckel. Yet beyond their artistic beauty, these works provide an additional benefit: they force the scientist to focus on the minutiae, the tiny details that simultaneously bring a creation to life and trigger a cascade of wonder. For it is these tiny details where new science is born, where questions are pondered, where cutting edge techniques and technologies are developed. Conventional science has not forgotten it’s fascination, but it’s so-often buried within layers and layers of formality that it becomes easy to miss. In the ever-increasing age of overworked, publish-or-perish churning of quantity over quality, perhaps it’s time for us all to take a moment, pick up a pencil, and rediscover that wonder. ![image](https://user-images.githubusercontent.com/95586072/181812324-6f4e1aea-0596-424b-b16f-1fd7ce690cf9.png)
+	
+  </details>	
+
 # Changing Systems
 <details>
   <summary></summary>
