@@ -5,17 +5,32 @@ permalink: /essays/
 description: "What follows is a selection of my essays. 
 Constructive feedback is always appreciated, but please be civil!"
 ---
+# The Rise of Zoonotic Diseases
+<details>
+	<summary></summary>
+With the current epidemic of monkeypox and the lasting effects of the COVID-19 Pandemic, it is evident that the prevalence of zoonotic diseases – those that jump from animals to humans - has increased in recent decades. Globalization and urbanization help spread these diseases worldwide, as our greater connectivity enables a disease to infect more people, but the emergence of these diseases is tied to two issues. First, the close-proximity of farmers to large populations of single-species livestock increases the chance that diseases will jump from animals to humans. Second, our current system of agriculture suffers from a distinct lack of biodiversity buffering. <br/><br/>
+
+Biodiversity buffering occurs when diverse plant, animal, and bacterial communities contribute to a healthier, more resilient ecosystem. The same concept is in personal finance, where individual stocks might skyrocket or tank, but having a diverse selection across different sectors ensures that you’ll be protected from market swings. In other words, don’t put all your eggs in one basket. The same is true for our communities, where having healthy plant, animal, and soil populations contributes to the productivity and well-being of the whole ecosystem.  <br/><br/>
+
+As our closest industry to the natural world, agriculture needs biodiversity buffering. Reliant on healthy air, water, and soil, farms are the most vulnerable to changing natural conditions and disease outbreaks. Farmers live at the fine line between fertility and famine, with the health of the ecosystem meaning the difference between success and starvation. Degraded ecosystems - those without biodiversity buffering- are at the highest risk of collapse when faced with uncertain seasonal patterns, pollution, and emerging diseases. With their proximity to the natural world, farms reflect the health of the whole ecosystem, thriving in rich environments and collapsing in depleted ones. As the interface between the human and natural world, farms are the most vulnerable targets for zoonotic diseases, but also our greatest safeguards. <br/><br/>
+
+Thankfully, we now know ways to protect against zoonotic diseases. Regenerative farming – actions that restore and maintain the health of soil and plant communities while fostering diverse livestock – creates the conditions for biodiversity buffering, blocking the emergence of zoonotic diseases. Best of all, they allow farmers to remain productive and competitive with less resources. Regenerative farming practices include cover crops, crop rotations, and agrivoltaics - pairing solar panels with farming for agricultural and energy productivity. Regenerative farms use less pesticides, herbicides, fertilizer, and water; all while producing greater, nutrient-rich, yields. To address air and water pollution, agribusiness giants pay farmers who use regenerative practices to catch CO2 in carbon-rich soils. In other words, regenerative farming simultaneously allows farmers to remain productive and profitable, all while using biodiversity buffering to safeguard our communities. <br/><br/>
+
+As we move beyond the COVID-19 pandemic, there is a societal realization that our current practices of agriculture must be revamped to meet growing demand. Biodiversity buffering is the central step in this process, where natural ecosystems protect human communities through diversity. Regenerative agriculture allows farmers to secure this protection, all while meeting growing demand, saving costs, and working to prevent future pandemics. From the small-scale urban garden to the breadbaskets that stock our supermarkets, regenerative farming is the future of agriculture, our first line of defense and greatest ally against the rise of zoonotic diseases. 
+
+</details>
+	
 # Art for Biology
 <details>
-  <summary></summary>
+  	<summary></summary>
 	
 Art is a pivotal component of science. The covers of Nature and Science frequently showcase beautiful images, from photo-realistic cellular renders, sweeping landscapes, swirling patterns, and glowing biomolecules. Yet while most scientists labor to include some particularly illustrative figures in their paper, they rarely engage in acts of artistic creation for their own right. Largely gone are the days of Ramón y Cajal’s beautiful sketches of dendritic arbors or the mesmerizingly fantastic botanical works of Ernst Haeckel. Yet beyond their artistic beauty, these works provide an additional benefit: they force the scientist to focus on the minutiae, the tiny details that simultaneously bring a creation to life and trigger a cascade of wonder. For it is these tiny details where new science is born, where questions are pondered, where cutting edge techniques and technologies are developed. Conventional science has not forgotten it’s fascination, but it’s so-often buried within layers and layers of formality that it becomes easy to miss. In the ever-increasing age of overworked, publish-or-perish churning of quantity over quality, perhaps it’s time for us all to take a moment, pick up a pencil, and rediscover that wonder.
 	
-  </details>	
+</details>	
 
 # Changing Systems
 <details>
-  <summary></summary>
+	<summary></summary>
 	
 One of the defining challenges of the 21st century is how, as aptly put, to change the plane while flying it. In fact, this challenge resembles more than merely altering our existing schematics but switching aircraft design entirely. In other words, how to change a plane to a helicopter mid-flight (the helicopter analogy arises from Herman Daly, who likened transitioning from a growth-focused to steady-state economy as transitioning from a plane - which must always move forwards, lest it fall out of the sky – to a helicopter - which can hover like a hummingbird, moving backwards and forwards for the comfort and safety of its passengers)  <br/><br/>
 
@@ -25,12 +40,12 @@ The difficulty, however, comes not from the repairs themselves. You have top-not
 
 So, what do you do? Do you give the order to begin alterations, knowing that doing so will garner the airline’s animosity and will be too little for some passengers but too much for others? Do you embrace the smaller risk of present collapse to stave off an increasingly certain future one? How long can you keep flying before you must reach a decision? With every passing moment your timeline is shorter, your alterations more extensive, and the risks greater. Increasingly soon, you must decide.  <br/><br/>
 
-  </details>
+	</details>
 
 
 # A Vision for the Future
 <details>
-  <summary></summary>
+	<summary></summary>
 	       
 I open my eyes. Light floods my room, tinged with the green of photosynthesis surrounding me. I hear running water, flowing through the aquaponics system, nourishing the flora and fauna. Well-lit by natural light and strategically placed mirrors, electric lighting is only needed late into the evening, as the day winds to a close. The house is kept naturally cool, with passive cooling and insulation. I venture outside, greeting the day, the animals, and the plants. The garden is growing spectacularly, the food crops are strong, tall, and healthy. The flowers buzz with the hum of a thousand pollinators, birds swoop in and out, squirrels nibble on nuts and rabbits chew on clover. A lone deer stands down the hill, helping himself to some fresh shoots. Most of my food I get from the market, so I don’t mind feeding the ecosystem with the rest. I greet the pigs, nuzzling in the compost for an uneaten peel or adventurous mushroom. Shaded by the tall oaks, the pigs are content in the shade, but might venture out into the warm meadow soon. I follow the well-worn dirt path to the coop, where a host of chickens are clucking contently, pecking at feed, hoping to snag a worm for breakfast. I dutifully collect a few of the eggs laid overnight, closing the coop as I leave. I venture over to the pond, where the ducks and geese loudly greet their own morning. I wave at the neighbors situated around the same pond, a treasure of the commons. I pick a particularly ripe apple from a tree, snag a large leaf of lettuce, cut some onion greens, pick up two healthy mushroom heads, and go back inside. Inside, I flip on the electric stove, place a pan over it, drizzle in some olive oil, and fry the onion greens and mushrooms before cracking in the eggs. I grab a slice of bread from the fridge, toast it, make a bed of the lettuce, and layer in the onions, mushrooms, and some tomato slices. There are a few small tomatoes growing in the garden, but the ones from the market are large and perfectly ripe, great for slices on toast. I layer the eggs on top, take a deep inhale, and dig in.  <br/><br/>
 
@@ -48,7 +63,7 @@ As I finish my work I reflect on where we are, how far we have come. Countries w
 
 # War of the World
 <details>
-  <summary></summary>
+	<summary></summary>
 	
   
 We are fighting a war. Invisible, approaching, and worldwide. Hidden for some and blinding for others. This is not a war of any one nation, any one society, any one people. This is a war for our humanity, for our world. This war pervades our conversations, challenges our supply lines, and requires unprecedented mobilization. This war will require generals, lieutenants, admirals, and soldiers on the ground. It needs engineers, builders, technicians, and tinkerers. It’ll need truck drivers, electricians, plumbers, steel workers, miners, and police officers. Most importantly, it will need people. This war must be fought on all fronts, at home and abroad. We must ration, safeguard, and each do his or her part to fight for our country, our planet, our world.  <br/><br/>
@@ -77,7 +92,7 @@ A million tiny battles are fought each day, on all fronts, and across the world.
 
 # In Defense of Wild Suburbs
 <details>
-  <summary></summary>
+	<summary></summary>
 		
 A common argument against re-wilding public green spaces, such as those found at parks, in our backyards, and serving as natural barriers between our urban islands, is that mowed, kept, green spaces are better for kids and dogs.  <br/><br/>
 
@@ -91,21 +106,4 @@ Thus, next time you bring out the lawnmower, consider leaving a small section fr
 
 </details>
 
-# In Defense of Mosquitoes
-<details>
-  <summary></summary>
-	
-It’s time to rethink our perception of mosquitoes. Sure, the females may bite us to lay eggs, but the males are entirely uninterested in us. In fact, mosquitoes are a major ecosystem pollinator, as well as a food source for countless other animals (birds, spiders, bats, reptiles, amphibians; all important parts of effective biodiversity). Given that ¾ of all flowering plants, and over a third of the world’s food crops depend on pollinators, a population currently experiencing a deadly collapse, increasing the number of pollinators in an ecosystem is never a bad thing.  <br/><br/>
-
-The poisons and pesticides we use to curb mosquito populations, while extremely effective, do untold harm to the rest of the insect population, and affect predator species that eat them due to poison accumulation. Much of the pesticide also gets in our food, our water, and even our air, and though we are much larger than mosquitoes, we are nonetheless affected through exposure.  <br/><br/>
-
-While mosquito-borne diseases are undoubtably serious, most of the time in developed countries the problems are negligible. While there are sensational cases of Zika, West Nile, or Malaria, the chances of catching these diseases in modern, industrialized societies are practically nil, even for extreme-outdoorsy types.  <br/><br/>
-
-Obviously, receiving a host of welts is never pleasant, but we have both preventative and treatment ointments and sprays that are extremely effective, and can isolate an individual from bites without attacking the entire ecosystem. There’s a difference between putting on protection before exploring the outdoors (comparable to putting on long pants for ticks or sunscreen before going to the beach) and gassing an entire ecosystem to make our yards as pristine as possible. Instead of individuals putting on sunscreen, what if a town decided to just use geo-engineering to inject aerosols into the atmosphere and artificially darken a region? This would have untold effects, with countless unknowns spreading across the biosphere.  <br/><br/>
-
-And much like a sunburn, if we do forget our preventative measures our body will heal on its own within a few days, often aided by the same ointments and salves. Of course, repeated exposure can increase our risk, but after a particularly bad sunburn or many bites we usually won’t be so forgetful of our protection in the future.  <br/><br/>
-
-Thus, next time you’re considering treating your yard to get rid of all mosquitoes, please consider the impact to your health and the ecosystem.  Mosquitoes certainly aren’t pleasant, but they are a necessary and crucial part of a functioning ecosystem, and of vital importance to your health and biodiversity.  <br/><br/>
-	
-</details>
 
