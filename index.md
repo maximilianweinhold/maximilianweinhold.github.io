@@ -1,14 +1,14 @@
-<html>
+<!--<html>
 <head>
   Hello!
 </head>
-<body>
+<body>-->
 
 **Hello!**
 
 I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke. My  research involves modeling neural computation of speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical connectivity of ecosystems and the information processing systems of neural and _in silico_ computation.  
 
-<!-- div defines a division or section -->
+<!-- div defines a division or section 
 <div style = "text-align:center">
   <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">CV</a>
   <a href = "https://maximilianweinhold.github.io/essays/">Essays</a>
@@ -18,6 +18,8 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
 
 </body>
 </html>
+-->
+
 ## [CV](https://maximilianweinhold.github.io/CV/CV.pdf) &emsp; &emsp; [Essays](https://maximilianweinhold.github.io/essays/) &emsp; &emsp; [Initatives](https://maximilianweinhold.github.io/initiatives/) &emsp; &emsp; [Open Code](https://maximilianweinhold.github.io/open_science_code/)
 
 
