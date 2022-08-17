@@ -9,12 +9,12 @@
 I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke. My  research involves modeling neural computation of speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical connectivity of ecosystems and the information processing systems of neural and _in silico_ computation.  
 
 <!--div defines a division or section -->
-<div style = "text-align:center;font-weight: bold">
+<strong style = "text-align:center">
   <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">-    CV    -</a>
   <a href = "https://maximilianweinhold.github.io/essays/">-   Essays   -</a>
   <a href = "https://maximilianweinhold.github.io/initiatives/">-Initiatives-</a>
   <a href = "https://maximilianweinhold.github.io/open-science-code/">- Open Code -</a>
-</div>
+</strong>
 
 </body>
 </html>
