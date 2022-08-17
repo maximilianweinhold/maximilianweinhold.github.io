@@ -9,10 +9,10 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
 
 <!--div defines a division or section -->
 <div style = "text-align:center;font-weight: bold">
-  <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">CV</a>
-  <a href = "https://maximilianweinhold.github.io/essays/">Essays</a>
-  <a href = "https://maximilianweinhold.github.io/initiatives/">Initiatives</a>
-  <a href = "https://maximilianweinhold.github.io/open-science-code/">Open Code</a>
+  <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">- CV -</a>
+  <a href = "https://maximilianweinhold.github.io/essays/">- Essays -</a>
+  <a href = "https://maximilianweinhold.github.io/initiatives/">- Initiatives -</a>
+  <a href = "https://maximilianweinhold.github.io/open-science-code/">- Open Code -</a>
 </div>
 
 </body>
