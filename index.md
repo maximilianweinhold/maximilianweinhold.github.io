@@ -12,7 +12,7 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
   <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">CV</a>
   <a href = "https://maximilianweinhold.github.io/essays/">Essays</a>
   <a href = "https://maximilianweinhold.github.io/initiatives/">Initiatives</a>
-  <a href = "https://maximilianweinhold.github.io/open_science_code/"Open-Code</a>
+  <a href = "https://maximilianweinhold.github.io/open-science-code/"Open-Code</a>
 </div>
 
 </body>
