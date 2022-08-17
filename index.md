@@ -16,7 +16,8 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
   <a href = "https://maximilianweinhold.github.io/open_science_code/"Open-Code</a>
 </div>
 
-   
+</body>
+</html>
 ## [CV](https://maximilianweinhold.github.io/CV/CV.pdf) &emsp; &emsp; [Essays](https://maximilianweinhold.github.io/essays/) &emsp; &emsp; [Initatives](https://maximilianweinhold.github.io/initiatives/) &emsp; &emsp; [Open Code](https://maximilianweinhold.github.io/open_science_code/)
 
 
@@ -47,5 +48,4 @@ Currently, I'm designing a closed-loop algae-cultivation bioreactor for carbon s
 
 ![Algae Bioreactor](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg)
 
-  </body>
-  </html>
+
