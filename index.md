@@ -1,15 +1,14 @@
-<!--<html>
+<html>
 <head>
-  Hello!
 </head>
-<body>-->
+<body>
 
 **Hello!**
 
 I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke. My  research involves modeling neural computation of speech disorders. I'm currently invovled in a host of different projects, involving electrophysiology, calcium imaging, single-cell sequencing, and computational behavior analysis. My interests are wide-ranging, but at the moment I'm particularly interested in interacting systems, including the physio-biochemical connectivity of ecosystems and the information processing systems of neural and _in silico_ computation.  
 
-<!-- div defines a division or section 
-<div style = "text-align:center">
+<!--div defines a division or section -->
+<div style = "text-align:center;font-weight: bold">
   <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">CV</a>
   <a href = "https://maximilianweinhold.github.io/essays/">Essays</a>
   <a href = "https://maximilianweinhold.github.io/initiatives/">Initiatives</a>
@@ -18,10 +17,6 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
 
 </body>
 </html>
--->
-
-## [CV](https://maximilianweinhold.github.io/CV/CV.pdf) &emsp; &emsp; [Essays](https://maximilianweinhold.github.io/essays/) &emsp; &emsp; [Initatives](https://maximilianweinhold.github.io/initiatives/) &emsp; &emsp; [Open Code](https://maximilianweinhold.github.io/open_science_code/)
-
 
 ![image](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
@@ -29,7 +24,6 @@ I'm Max, a behavioral neuroscientist at the U.S. National Institute of Neurologi
 ## Publications
 
 •	Bishop, M., **Weinhold, M**., Turk, A., Adeck, A., SheikhBahaei, S. “An open source tool for automated analysis of breathing behaviors in common marmosets and rodents.” eLife, Jan. 2022. Doi: [10.7554/eLife.71647](https://elifesciences.org/articles/71647)
-
 
 
 ## Research Interests
