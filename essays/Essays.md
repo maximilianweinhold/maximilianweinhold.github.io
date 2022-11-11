@@ -3,7 +3,7 @@ theme: jekyll-theme-tactile
 title: "Essays"
 permalink: /essays/
 description: "What follows is a selection of my essays. 
-Constructive feedback is always appreciated, but please be civil!"
+Constructive feedback is always appreciated! 
 ---
 # The Rise of Zoonotic Diseases
 <details>
