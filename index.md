@@ -6,7 +6,9 @@
 </head>
 <body>
 
-I'm Max, a Master's candidate at the University of Edinburgh. I study Ecological Economics, and am presently writing my dissertation on how actors respond to malfunctioning institutions, with a focus on including more-than-human actors. I was formerly a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke where I modeled neural computations in speech disorders. My interests are wide-ranging, but at the moment I'm particularly interested in fractal ecosystem restoration, life that doesn't rely on water, aquatic mycelial networks, and tuning carbon sequestration in ecosystems. I've also worked on sustainable biomaterials, lunar dust, 
+I'm Max, a Master's candidate at the University of Edinburgh. I study Ecological Economics, and am presently writing my dissertation on how actors respond to malfunctioning institutions, with a focus on including more-than-human actors. I was formerly a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke where I modeled neural computations in speech disorders. 
+
+My interests are wide-ranging, but at the moment I'm particularly interested in fractal ecosystem restoration, life that doesn't rely on water, aquatic mycelial networks, and tuning carbon sequestration in ecosystems. I've also worked on sustainable biomaterials, lunar dust, electronic circuit design, and GIS for assessing urban ecosystem quality.
 
 <!--div defines a division or section -->
 <strong style = "text-align:center">
