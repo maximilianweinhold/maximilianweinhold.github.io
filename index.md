@@ -23,8 +23,11 @@ I'm Max, a Master's candidate at the University of Edinburgh. I study Ecological
 
 ## Publications
 •	**Weinhold, M.**, Kaur, H., SheikhBahaei, S. "Voluntary motor defects in Mice with human GNPTAB stuttering mutations: Hyperactivity, Initiations, and Interruptions." Society for Neuroscience, Nov.  2022.
+
 •	Bishop, M., **Weinhold, M.**, Turk, A., Adeck, A., SheikhBahaei, S. “An open source tool for automated analysis of breathing behaviors in common marmosets and rodents.” eLife, Jan. 2022. Doi: [10.7554/eLife.71647](https://elifesciences.org/articles/71647)
+
 •	**Weinhold, M**. “Don’t Ban Plastic — Rethink How It’s Designed and Make It Part of Our Ecosystem.” Plastics Today, Feb. 2023. [Article](https://www.plasticstoday.com/materials/dont-ban-plastic-%C2%A0rethink-how-its-designed-and-make-it-part-our-ecosystem)
+
 •	**Weinhold, M.**, Levine, J. “Increased concentrations of Lunar dust associated with a denser Lunar atmosphere resulting from heightened human presence and activity on the Moon.” NASA Lunar and Planetary Institute, Feb. 2020: [Abstract](https://www.hou.usra.edu/meetings/lunardust2020/pdf/5001.pdf) 
 
 
