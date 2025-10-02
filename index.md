@@ -16,7 +16,7 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 
 <!--div defines a division or section -->
 <strong style = "text-align:center">
-  <a href = "https://maximilianweinhold.github.io/CV/CVoct25.docx">-    CV    -</a>
+  <a href = "https://maximilianweinhold.github.io/CV/CVOct2_.docx">-    CV    -</a>
   <!--a href = "https://maximilianweinhold.github.io/essays/">-   Essays   -</a>
   <a href = "https://maximilianweinhold.github.io/initiatives/">-Initiatives-</a> -->
 </strong>
@@ -27,19 +27,19 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 ![A younger image of me, with all my teeth](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
 ## Publications
-• **Weinhold, M.**, A Decentralized More-than-Human World, or, How Can Slime Molds Build Social Movements or 'In pursuit of decentralization: theoretical, biological, and more-than-human considerations for institutional design'. Hosted at [Preprints.org](https://www.preprints.org/manuscript/202409.2239/v1)
+• Weinhold, M., A Decentralized More-than-Human World, or, How Can Slime Molds Build Social Movements or 'In pursuit of decentralization: theoretical, biological, and more-than-human considerations for institutional design'. Hosted at [Preprints.org](https://www.preprints.org/manuscript/202409.2239/v1)
 
-• Millwater, M., Bragg, C., Bishop, D., Adeck, A., Karutury, RC., **Weinhold, M.**, Rao P., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.07.30.667752) 2025
+• Millwater, M., Bragg, C., Bishop, D., Adeck, A., Karutury, RC., Weinhold, M., Rao P., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.07.30.667752) 2025
 
-• Millwater, M., **Weinholdm M.**, Bragg, C., Kaur, H., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.08.08.669441) 2025
+• Millwater, M., Weinholdm M., Bragg, C., Kaur, H., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.08.08.669441) 2025
 
-•	**Weinhold, M.**, Kaur, H., SheikhBahaei, S. "Voluntary motor defects in Mice with human GNPTAB stuttering mutations: Hyperactivity, Initiations, and Interruptions." Society for Neuroscience, Nov.  2022.
+•	Weinhold, M., Kaur, H., SheikhBahaei, S. "Voluntary motor defects in Mice with human GNPTAB stuttering mutations: Hyperactivity, Initiations, and Interruptions." Society for Neuroscience, Nov.  2022.
 
-•	Bishop, M., **Weinhold, M.**, Turk, A., Adeck, A., SheikhBahaei, S. “An open source tool for automated analysis of breathing behaviors in common marmosets and rodents.” eLife, Jan. 2022. Doi: [10.7554/eLife.71647](https://elifesciences.org/articles/71647)
+•	Bishop, M., Weinhold, M., Turk, A., Adeck, A., SheikhBahaei, S. “An open source tool for automated analysis of breathing behaviors in common marmosets and rodents.” eLife, Jan. 2022. Doi: [10.7554/eLife.71647](https://elifesciences.org/articles/71647)
 
-•	**Weinhold, M**. “Don’t Ban Plastic — Rethink How It’s Designed and Make It Part of Our Ecosystem.” Plastics Today, Feb. 2023. [Article](https://www.plasticstoday.com/materials/dont-ban-plastic-%C2%A0rethink-how-its-designed-and-make-it-part-our-ecosystem)
+•	Weinhold, M. “Don’t Ban Plastic — Rethink How It’s Designed and Make It Part of Our Ecosystem.” Plastics Today, Feb. 2023. [Article](https://www.plasticstoday.com/materials/dont-ban-plastic-%C2%A0rethink-how-its-designed-and-make-it-part-our-ecosystem)
 
-•	**Weinhold, M.**, Levine, J. “Increased concentrations of Lunar dust associated with a denser Lunar atmosphere resulting from heightened human presence and activity on the Moon.” NASA Lunar and Planetary Institute, Feb. 2020: [Abstract](https://www.hou.usra.edu/meetings/lunardust2020/pdf/5001.pdf) 
+•	Weinhold, M., Levine, J. “Increased concentrations of Lunar dust associated with a denser Lunar atmosphere resulting from heightened human presence and activity on the Moon.” NASA Lunar and Planetary Institute, Feb. 2020: [Abstract](https://www.hou.usra.edu/meetings/lunardust2020/pdf/5001.pdf) 
 
 ## Research Interests
 
