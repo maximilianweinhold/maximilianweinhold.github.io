@@ -16,7 +16,7 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 
 <!--div defines a division or section -->
 <strong style = "text-align:center">
-  <a href = "https://maximilianweinhold.github.io/CV/CV.pdf">-    CV    -</a>
+  <a href = "https://maximilianweinhold.github.io/CV/CVoct25.docx">-    CV    -</a>
   <!--a href = "https://maximilianweinhold.github.io/essays/">-   Essays   -</a>
   <a href = "https://maximilianweinhold.github.io/initiatives/">-Initiatives-</a> -->
 </strong>
@@ -26,8 +26,12 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 
 ![A younger image of me, with all my teeth](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
-## Publications amidst preprints
-• https://www.preprints.org/manuscript/202409.2239/v1
+## Publications
+• **Weinhold, M.**, A Decentralized More-than-Human World, or, How Can Slime Molds Build Social Movements or 'In pursuit of decentralization: theoretical, biological, and more-than-human considerations for institutional design'. Hosted at [Preprints.org](https://www.preprints.org/manuscript/202409.2239/v1)
+
+• Millwater, M., Bragg, C., Bishop, D., Adeck, A., Karutury, RC., **Weinhold, M.**, Rao P., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.07.30.667752) 2025
+
+• Millwater, M., **Weinholdm M.**, Bragg, C., Kaur, H., Zhang, R., Sheikhbahaei, S.. "Iron dysregulation in mice engineered with a mutation associated with stuttering." [BioRxiv.org](https://doi.org/10.1101/2025.08.08.669441) 2025
 
 •	**Weinhold, M.**, Kaur, H., SheikhBahaei, S. "Voluntary motor defects in Mice with human GNPTAB stuttering mutations: Hyperactivity, Initiations, and Interruptions." Society for Neuroscience, Nov.  2022.
 
