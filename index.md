@@ -59,6 +59,6 @@ Only the beginnings of a closed-loop algae-cultivation bioreactor for carbon seq
 
 Otherwise, I've developed a tinker space, a drop below the Planck interval; some of these ideas may eventually get published. 
 
-![before we question spacetime](https://github.com/maximilianweinhold/spacetime/)
+[before we question spacetime](https://github.com/maximilianweinhold/spacetime/)
 
 
