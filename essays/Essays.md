@@ -3,8 +3,11 @@ theme: jekyll-theme-tactile
 title: "Essays"
 permalink: /essays/
 description: "What follows is a selection of my essays. 
-Constructive feedback is always appreciated! 
 ---
+# Counterbalances
+A radical action met by a radical action spirals the top, and a restoring action steadies the wobble. 
+
+
 # The Rise of Zoonotic Diseases
 <details>
 	<summary></summary>
@@ -32,7 +35,7 @@ Art is a pivotal component of science. The covers of Nature and Science frequent
 <details>
 	<summary></summary>
 	
-One of the defining challenges of the 21st century is how, as aptly put, to change the plane while flying it. In fact, this challenge resembles more than merely altering our existing schematics but switching aircraft design entirely. In other words, how to change a plane to a helicopter mid-flight (the helicopter analogy arises from Herman Daly, who likened transitioning from a growth-focused to steady-state economy as transitioning from a plane - which must always move forwards, lest it fall out of the sky – to a helicopter - which can hover like a hummingbird, moving backwards and forwards for the comfort and safety of its passengers)  <br/><br/>
+One of the defining challenges of the 21st century is how to change the plane while flying it. In fact, this challenge resembles more than merely altering our existing schematics but switching aircraft design entirely. In other words, how to change a plane to a helicopter mid-flight (the helicopter analogy arises from Herman Daly, who likened transitioning from a growth-focused to steady-state economy as transitioning from a plane - which must always move forwards, lest it fall out of the sky – to a helicopter - which can hover like a hummingbird, moving backwards and forwards for the comfort and safety of its passengers)  <br/><br/>
 
 So how do you engineer a plane into a helicopter? You send people out on the wings, tethered to the fuselage to make inflight-repairs and adaptions. You install a rotor on top, angling it so it doesn’t get ripped off at the speeds you’re traveling. You make your way to the back and install a second rotor on the tail, once again angled away from the wind. Then, you must cross the point of no return. You cannot remain within a mutant configuration of helicopter and plane forever (Or perhaps you can, if multi-functionality is pre-built into the structure, with the ability to shift between modes when needed), for once you turn off and remove the engines, the plane slowly starts to fall, gliding lower and lower. As this happens, it must be all hands-on deck. The motors must be hooked up to the rotors, and you must wait until the right speed to turn them on. Too early, and the blades could get ripped off, too late and you risk crashing.  <br/><br/>
 
