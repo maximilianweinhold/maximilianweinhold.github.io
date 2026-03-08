@@ -6,13 +6,15 @@
 </head>
 <body>
 
-I'm Max, now minted with Master's in Ecological Economics. Presently fixing things, including spacetime.
+I'm Max,  minted with Master's in Ecological Economics, pocket full of change. 
 
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged. 
 
-Since then, I've hopped through brains, computational and encephalogramic with a reading on physics that would hopefully comfort dear Planck. I build gardens in my spare time, and hope you do too, or at least paint good trouble art. 
+Since then, I've tried to understand an ethical neuroscience and some else. I've wrote on 1200 things, and published 3. Which plastics can we keep? I wager if a set of squirrels and chipmunks may borate-into in a good 3 days try, though not plaque accumulated with kind, is neither unpleasently stringy nor doped with foul untreated chemical, and if floats without getting stuck and sticking, is free from now. I build gardens in my spare time, and hope you do too; or at least paint good trouble art, or journal or write or play football or keep us and each other safe and alive and kind. If you do none of these, I was always a good listener, and actually first found a degree in psychology. 
 
-<!-- I study Ecological Economics, and am presently writing my dissertation on how actors respond to malfunctioning institutions, with a focus on including more-than-human actors. I was formerly a behavioral neuroscientist at the U.S. National Institute of Neurological Disorders and Stroke where I modeled neural computations in speech disorders. My interests are wide-ranging, but at the moment I'm particularly interested in fractal ecosystem restoration, life that doesn't rely on water, aquatic mycelial networks, and tuning carbon sequestration in ecosystems. I've also worked on sustainable biomaterials, lunar dust, electronic circuit design, and GIS for assessing urban ecosystem quality.
+I study Ecological Economics, and am presently re-drafting my dissertation on how actors respond in opportune institutions, with a focus on including more-than-human actors. I was formerly a behavioral, computational neuroscientist at the U.S. National Institute of Neurological Disorders, Stroke where I modeled neural pathways and representations in speech-motor disorders or more kindly: unkindly patterned patterns and interjecting puncta. At the moment I'm particularly interested in fractal ecosystem restoration, why does life always rely on water, can't forget about aquatic mycelia, and as always carbon in soils. 
+
+Can we build an ethical more-than-human DAO? At least an assemblage, I bet. 
 
 <!--div defines a division or section -->
 <strong style = "text-align:center">
@@ -24,7 +26,7 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 </body>
 </html>
 
-![A younger image of me, with all my teeth](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
+![A younger image of me, still with all my teeth](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
 ## Publications
 • Weinhold, M., A Decentralized More-than-Human World, or, How Can Slime Molds Build Social Movements or 'In pursuit of decentralization: theoretical, biological, and more-than-human considerations for institutional design'. Hosted at [Preprints.org](https://www.preprints.org/manuscript/202409.2239/v1)
@@ -43,11 +45,11 @@ Since then, I've hopped through brains, computational and encephalogramic with a
 
 ## Research Interests
 
-I'm passionate about nature within socio-technological institutions. Innovation must be for enhancing collective, ecosystem welfare, inclusive of humans and other. This flow is bidirectional, as it includes lessons from nature, such as biotechnology and organizational principles, alongside utilizing human ingenuity and constructions, such as blockchain or artificial intelligence. Living with and living as nature are useful frameworks in this regard. Plus, the selfish, or self, reason. 
+自然我可以想一想，计划你供应链，请把三个月多给我。
 
-I'm also fascinated by information flow in complex systems: be it in the biosphere, neural circuits, internet connectivity, and social networks. Information is a universality that transcends the details of any particular system, and thus allows a richer depth of understanding across fields. As filler text, this paragraph contains meaning when held between transmitter and receiver. Now, your page may immediately make my words into a language I do not speak, and better than I. 
+Supply chains exist as a sequence of nodes in a database. From a distal node to you. In each node we choose one or multiple parties to trade with. Our relationship with those parties depends on prevailing economic factors, or familiarty and locallity. Lots of ways to gunk _crasse_ a chain!  
 
-As a global citizen and humanitarian, I work to promote the welfare of people and societies, local and global, whenever I can. Realistcally, it looks like a friendly face at a watch shop. Acknowledge a polycrisis to grow. As anyone young at heart I'm passionate about developing breakthrough solutions, ideas, and policy to help us tackle the problems of today and the challenges of tomorrow. 
+As a global citizen and humanitarian, I work to promote the welfare of people and societies, local and global, whenever I can. Realistically, it looks like a friendly face at a watch shop or just some guy. The polycrisis is more fun when we're collaborating. 
 
 
 
@@ -55,10 +57,12 @@ As a global citizen and humanitarian, I work to promote the welfare of people an
 
 Only the beginnings of a closed-loop algae-cultivation bioreactor for carbon sequestration and biofuel development was created, though turtle poop was filtered and transduced to algae, made for centrifuge. 
 
-![pic unrelated](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg)
+[pic featuring some other algae project](https://user-images.githubusercontent.com/95586072/155163527-93f3903c-5119-4fd2-b97c-b6004cffe1b1.jpg)
+
+My diss. was published under another name at: [slime molds and coconut trees](https://www.preprints.org/manuscript/202409.2239)
 
 Otherwise, I've developed a tinker space, a drop below the Planck interval; some of these ideas may eventually get published. 
 
-[before we question spacetime](https://github.com/maximilianweinhold/spacetime/)
+[bwqs](https://github.com/maximilianweinhold/spacetime/)
 
 
