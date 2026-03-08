@@ -4,8 +4,273 @@ title: "Essays"
 permalink: /essays/
 description: "What follows is a selection of my essays. 
 ---
-# Counterbalances
-A radical action met by a radical action spirals the top, and a restoring action steadies the wobble. 
+
+# Notes from a future Steward
+##Te Ika-a-Maui - NZ North Island
+Today’s was the start of September spring. I’m a page with the ingloriously-titled North Island Centerbelt forecasting- , but I might get a chance to hear some legends. 
+
+We usually meet in the early summer, around November. Lots of energy in the summer, lots of uncertainty. Best to build in resilience now. 
+
+Many of the regions are divided by latitude bands. It’s useful when dealing with climate - approximately the same across a band. Ours extends from the saddle pass near Woodville to Mt. Ruapehu and Hawke’s Bay to the North. The Ruahine-Kaweka-Huirau range divides our regions, which tends to pull delegates into East and West camps. We’ve devised a decentralized system: decision-making percolates upward; ecosystems to regions to nations. Communities hold the power. I hope you, engaged in activism, storytelling, or care, can use some of our lessons for your own communities. 
+
+Representatives from all over are present. Ruahine, Rangitīkei; Ngaruroro and her sisters, the Taranaki uplands, Hastings, Napier, and of course, Whanganui, the first of many. 
+
+I’m with Rangitīkei’s coalition, sitting behind Mangaweka. 
+
+The delegates mill in, flashing wallets or chips; emblazoned with trees, flows, or a entire scene, no doubt carved with laser etch. Some, elect for a business card, of a thicker variety.  The scanner isn’t localized, but members build a preference. Taranaki, named for her volcano, wore a ring, of a polished sulphur sandstone, that no-doubt featured a very clever chip, and likely had activatable backups, and plenty, to catch would-be thieves of an identity.  I pop out my notebook, glancing around. The room is full of enthusiastic chattering; most members are old friends. 
+
+I notice the Elder, who quietly arrives, and still makes a quiet scene, as members get up to touch noses or shake hands. The light shimmers in an embrace. The elder’s rosy skin streaked a bit of sun, a bit of cold, surprisingly, and a bit of time, which seemed different. Maybe a thousand campfires.  
+
+As delegates filed in, the chairman rose, tapping his gavel. He was a distinguished anesthesiologist with a steely calm; well-respected. It’s an elected position, and one we switch out every five years. 
+
+He cleared his throat, in a thoughtfully dramatic sort of way. 
+
+—
+
+“For our first item, let’s discuss a mine. “
+
+Groans. 
+
+“We’re sketched to build a new one”
+
+Fewer groans
+
+“Another?” came a challenge from a delegate, clockwise around the circle.
+
+It was true to challenge. Some mines were still great scars in landscapes, but many had been rewilded. To raise a new mine required immense consensus, including from the fungi, who took long, or immediately, to agree. 
+
+It’s half their work, getting sulphur and limestone from the ground. Gotta have the right biochemistry to digest tailings, else you risk poisoning a thousand generations. Our living labs store vast - chemically customizable and transportable - habitats, ‘bio-bricks’, which one can effectively place - with a modicum of expendable slow mix machinery at the interface - onto mine wounds. Naturally, moving that degree of biochemistry over sites requires permits and ecologists, engineers and ecologists to maintain reduction zones, sensors and occasionally ecologists to monitor the successive treatment of tailings, through successive selected bio-bricks, which turned harm into just a mineral, dampened by heapings of cations of the salty sort, or plenty of silica and a spotting of aluminum from our bountiful planet. Or to a collectable stage, since that’s where the mine saves big, and nowadays breaks even.  Reduce sludge, centrifuge, light dry and capture exhaust, full dry, collect metals, fuels, centrifuge or magnetic sort, generate energy from fuels and exhaust. I had done a project on our mines in secondary school. 
+
+It’s often easier to mine old, sedimented landfills. Lots of remediation, collecting metals into root tissues or running down mycelial veins studded with sawdust. With a couple redox treats we farm fungi to regurgitate the metals. Not as gross as it sounds, warm the soil in a  bath with a smattering of oligoligand probes that catch-and-saturate for specific metal ions. Centrifuge those out, usually followed by sintering. Often an easier process, since we more-or-less know what to expect of hill composition, given it was of our past selves making. 
+
+Lots of Mineral farmers in these hills. It’s a good job, if you’re comfortable with thrice-compacted ooze and a surely hard-tipped shovel, and have a bioprospecting permit, certified by a board of mostly ecologists. 
+
+“We’re coordinating with the North belt to close the Taipo mine. In exchange, we’re permitted a small-scale mine near Tuki Tuki to export limestone North.”
+
+Hastings grins. Te Mata doesn’t. 
+
+Tukituki speaks: “We better see some algae farmers along the river. That mine effluent ain’t going untreated.”
+
+“We’ll incentivize the farmers,” assures Hastings. Die-offs are bad for business. 
+
+Algae farms - nets anchored near the shores of waterways - have emerged to filter farm or mine runoff; farmers regularly harvest the mats to prevent blooms of oxygen starvation downstream. Then, chemists collect sequestered heavy metals and transform the algae into biofuel, often refined for rocket fuel. We export to launch sites around Oceania. A small remainder goes to industrial chemistry, although fuels and oils are rarely in vogue. 
+
+“And what of the land?” Te Mata challenges. “Mining threatens an important habitat”. Pauses, and adds “Think of the lost genetics.” 
+
+It’s good to emphasize the latter, especially for human communities. Ecosystem services sway even the strongest proponents of ‘development’. 
+
+Genetics is a huge export. We attach the DNA and samples of biota to tokens, trade it with scientists and biotech companies. Mountain lichens are particularly sought-after on the lunar research facilities for astrobiology; the scientists trade us lunar iron and helium3 - we’re starting our own tests in mesoscale fusion.  
+
+“We’ll minimize the mine’s impact,” says Hastings. “Ecologists can scope the site, locate critical populations, provide an impact statement. In non-critical areas, we’ll coordinate to transplant or tokenize populations and help with the export process.”
+
+It sounds rehearsed, but this appears to satisfy most delegates. Te Mata keeps a wary side-eye. 
+
+Ruahine speaks up: “We’ll relocate some of our ecologists to help. Don’t worry, we’ll make sure everything’s accounted for.”
+
+“Great,” says the chairman. “I’ll form a coalition after the meeting… Te Mata, rest assured we’ll minimize harm to your landscape.”  
+
+Existing mines are in a perpetual stage of rewilding; great care is taken that the scar-area on the landscape is held constant, so in the rare chance a new mine is needed, the community comes together to set an old-mine trajectory quickly into the stages of ecological succession: we’ve gotten very good at jumpstarting ecosystems. 
+
+—
+
+The chairman glances at the agenda “We have been invited to the 5-year transoceanic conference on eco-Ag. Any candidates wishing to represent?” He looks at Whanaganui. “Elder?”
+
+Whanaganui smiles, waits a moment. “Some new blood would be best. I’m sure you’ll get by  without this old whio.”  
+
+The chairman deeply nods and looks around. “Anyone else?” 
+
+My coalition leader, Rangitīkei, stands. “I would be happy to represent.” 
+
+“I too,” says Ngaruroro. 
+
+“Let’s get some other delegates, in addition to the rivers,” requests the chairman. 
+
+“I’ll see if Taupo is going in the North,” Turangi says “I can coordinate with them.” 
+
+“And I’ll represent our aquaculture for the East” says Napier. 
+
+“Good. Other delegates wishing to participate, let me know after the meeting.” 
+
+This conference will showcase new predictions, technologies and ideas alongside storytelling. We elect our representatives in the accords, but vote ourselves in the proceedings: I have a voice even at the international level. 
+
+— 
+
+“Apiarist, you are next on the agenda.” 
+
+The apiarist stood. 
+
+“Our sensors have picked up migration of Puraroto’s beeflies. Many have crossed into Ngamatapouri. The receiving patch is planned for timber harvesting of the local eucalyptus population. Our beeflies need time to establish.”
+
+A pause. “One year may not be enough.”
+
+“How many?” a remark from across the room. 
+
+“Four years to establish is best,” came the confident reply. 
+
+Barring a Mag4, this would be true. 
+
+
+Ngamatapouri speaks up: “Could I get pollination tokens to offset the postponed harvest?” 
+
+The apiarist nods “Sure, and Puraroto might be willing to convert some of her land towards mixed-use recreation, to take pressure off upstream erosion.”
+
+“And what of the overlapping ownership?” raises the chairman
+
+We’ve seen a dramatic shift in the legal system. The prior paradigm of individual rights ran aground when considering the inseparability and nestedness of the real world. It's hard to assign direct rights to a riparian zone stretching across continents. 
+
+“I’m sure we can retrain some timber farmers to care for the new population,” spoke the apiarist. 
+
+We’ve seen a turn towards responsibilities: actors capable of consensus and cooperation  become stewards for those without. Ownership rarely has hard-boundaries: fuzziness, whereby a single actor or coalition stewards the center of a plot and shares governances into neighboring regions, is the norm. If I want to build a water filter at the center of my plot I need only inform neighbors. But if I wish to build that filter deeper in shared space, I must receive explicit, token-verified, permission and collaborate on the construction as well as share resources. 
+
+“I’d be happy to mediate,” says Whanaganui. The beeflies fall within the Elder’s region. 
+
+Sometimes transitory authorities are needed: a neutral third party builds relationships until a shared governance strategy can be agreed on. Conflicts arise, but shared boundaries means your influence extends to a broader area: partial governance of more land became preferred to absolute governance of a tiny patch. It's nice to feel that my land doesn't really end, it just merges into another’s stewardship. 
+
+“Perfect, thank you all. Please put forward a procedure to start merging ownership tokens.”
+
+We borrowed ideas from nature. If two plots increasingly overlap they fuse, becoming a new whole. This creates some fascinating combinations of actors and functions: I've seen a tennis club take up aquaculture, sheep that winter in the basement of an art studio. 
+
+These novel ecologies can breed conflict, but our proudest virtue is mediation. The shepherd of the aforementioned sheep herd is now quite an accomplished artist, and the resident sculptors have found their spunky new companions delightfully stimulating for shaping clay into hanks of wool. 
+
+
+—
+
+He starts again, “If there are no immediate actions to be taken, let’s move to our rheologist.” 
+
+The rheologist consults notes. “We’re picking up tremors. A mild eruption, likely a landslide into Eastern valley, 200 hectares, up to 500 meters into the valley near Ngaruroro. Impacts pasture and forest.” 
+
+Ngaruroro raíces concern: “We have an elder copse there. 600+ years of memory”. 
+
+The chairman asks “Can we get a construction crew out? We might be able to divert flow using trenching.”
+
+Whanawhana and the Outamauri agree to help. 
+
+Some of the older delegates make a show of turning to Hastings. 
+
+Hastings assents: “Of course we’ll send a team.” He pulls out the wallet, keys in a figure, and places in on the scanner. Sufficient funds.
+
+Zero-knowledge means we don’t need to know their balance. We found that some privacy in finances led to greater autonomy. 
+
+The Ledger, our shared document on finances and proceedings, records the transactions. All exchanges and actions are time-stamped and rendered immutable. 
+
+“My wallet isn’t working.” A voice from the back.
+
+I heard it. I think a friend did too. 
+
+I glanced over. It was Kereru. A small fellow with a proud flag on their cap. They have a wedding band in the colours of a tartan… and are right in the middle of that projected landslide. 
+
+Wallet issues normally get resolved within a few weeks, but rural Kereru might not have great tech support. Without their wallet, they can’t coordinate effort or verify identity. I’m surprised they were able to enter this meeting, but perhaps there’s still some functionality. 
+
+Nobody spoke up. Perhaps they hadn’t heard, or…
+
+
+Napier boisterously chimed in: “There’s a netball tournament happening at Taradale. It’ll draw crowds and bolster the region’s economy.”
+
+“We would do best to first tend to our human communities,” the chairman added. “I’m sure we’ll have time to mobilise.” He was an experienced politicker, although his priorities occasionally ran afoul of some of the delegates. 
+
+“Deal,” says Hastings. 
+
+I didn’t think we had come to a deal yet. 
+
+
+Outamauri looks across at Whanawhana, meets a hesitant nod, and turns back to the chair. She nods deeply, to be seen across the rooms. 
+
+
+“Thank you.” The chairman smiles. 
+
+Kereru fiddles nervously with their bangle. 
+
+
+The chairman speaks: “With that in order we can move onto the final item of our agenda. Biologist Kai.”
+
+The biologist stands and starts to speak.
+
+I jump up. “Um.. excuse me, chair?” I clear my throat and try again “Chair? I believe delegate Kereru said something… about a wallet?”
+
+The chairman examines me closely. Then nods, looks around for Kereru. 
+
+“To the right,” I attempt unhelpfully. “In the corner.” 
+
+“Delegate Kereru?” the chair articulates.
+
+“Yes sir, thank you, sir” Keruru manages, jolting upright. “My wallet, sir, it hasn’t been working. And with the landslide, I thought…”
+
+“I see,” says the chairman. “Yes, we’ll need to fix that. Thank you, Keruru, and delegate…” He looks me over. 
+
+“Sorry chair, not a delegate. Atawhai.”
+
+“Thank you, Atawhai” says the chair. “Hastings, Napier, can either of you send tech support as soon as possible?” 
+
+Hastings fidgets. Napier eyes his hesitancy, and in a gruff voice says: “Yep, we’ll send a crew. Keruru, send a request. I’ll approve it after.”
+
+Keruru bows and mutters “thank you, tēnā koe.”
+
+The chairman adjusts himself. “With that sorted, let us continue. Please, Kai.”
+
+The biologist begins talking about the Southern migration of mangrove populations. I attempt to follow but instead get caught up in over-analysing my interruption. I run over the scenario in my head, imagining how I could’ve done things differently. 
+
+—
+
+Before I know it, the meeting runs to an end. The Western seaboard came to an agreement, I think the biologist would prefer more adaptive methods. Somehow the algae farmers got involved. 
+
+
+Whanaguni stands to slightly interrupt a small deliberation. But the meeting had relaxed in urgency. 
+
+The elder solemnly starts: “Thank you, all for another year. The time has come for me to depart”. 
+
+A hush falls. 
+
+“This has been a wonderful journey. And I thank you all everyday for making this a reality. I never knew we could come so far, and I know that I leave you in good hands.” 
+
+I hear sniffles. Proud eyes go watery. 
+
+…
+
+
+“See you next spring!” 
+
+Someone chortles. The elder’s partner. Whanaganui flashes a grin, aimed just at her. 
+
+Nervous laughter giggles through the crowd. A relief. 
+
+
+“The next few years will be hard, but I know you will get through it. You have each other.” the elder smiles, full in the eyes. 
+
+“E noho rā!”
+
+Haere rā! Came a resounding call from the crowd. 
+
+
+“Thank you all,” says the chairman. “Meeting adjourned.” Another tap of the gavel. 
+
+
+
+The elder turns to me while passing to leave. 
+
+“Good on you, kairangi. I hope to see you next year”
+
+I embarrassingly beam, mutter a grateful thanks. 
+
+
+
+
+Rangitīkei confides in us: “I worry for the humans. They seem so short-sighted sometimes.” 
+
+“They’re learning, as are we,” offers Rangiwahia. 
+
+“I know,” says Rangitīkei, “but I wonder if it’s fast enough.”
+
+“We’re becoming more integrated,” interjects Ruahine. “I didn’t realize Turangi was an AI! Taranaki is an interesting mix.”
+
+“It helps we no longer deal with squabbles of ‘control” Rangitīkei responds, belaboring the word with a negative tint. 
+
+“We’re in it together,” affirms Rangiwahia
+
+“Through thick and thin,” Rangitīkei muses. 
+
+
+
+It is sometimes hard to be excited for an uncertain world. I am excited to be now. 
 
 
 # The Rise of Zoonotic Diseases
