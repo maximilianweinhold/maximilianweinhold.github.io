@@ -7,13 +7,16 @@
 <body>
 
 I'm Max,  minted with Master's in Ecological Economics, pocket full of change. 
-
+<br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged. 
+<br>
+Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint good trouble art, or journal or write or play football or keep us and each other safe and alive and kind. If you do none of these, I was always a good listener, and actually first found a degree in psychology. 
 
-Since then, I've tried to understand an ethical neuroscience and some else. I've wrote on 1200 things, and published 3. Which plastics can we keep? I wager if a set of squirrels and chipmunks may borate-into in a good 3 days try, though not plaque accumulated with kind, is neither unpleasently stringy nor doped with foul untreated chemical, and if floats without getting stuck and sticking, is free from now. I build gardens in my spare time, and hope you do too; or at least paint good trouble art, or journal or write or play football or keep us and each other safe and alive and kind. If you do none of these, I was always a good listener, and actually first found a degree in psychology. 
+<br>
 
 I study Ecological Economics, and am presently re-drafting my dissertation on how actors respond in opportune institutions, with a focus on including more-than-human actors. I was formerly a behavioral, computational neuroscientist at the U.S. National Institute of Neurological Disorders, Stroke where I modeled neural pathways and representations in speech-motor disorders or more kindly: unkindly patterned patterns and interjecting puncta. At the moment I'm particularly interested in fractal ecosystem restoration, why does life always rely on water, can't forget about aquatic mycelia, and as always carbon in soils. 
 
+<br>
 Can we build an ethical more-than-human DAO? At least an assemblage, I bet. 
 
 <!--div defines a division or section -->
