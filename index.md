@@ -64,7 +64,7 @@ Only the beginnings of a closed-loop algae-cultivation bioreactor for carbon seq
 
 My diss. was published under another name at: [slime molds and coconut trees](https://www.preprints.org/manuscript/202409.2239)
 
-Join me writing games in a tinker space, a drop below _h._ Planck.
+Join me writing games in a tailor space, a drop below _h._ Planck.
 
 [bwqs](https://github.com/maximilianweinhold/spacetime/)
 
