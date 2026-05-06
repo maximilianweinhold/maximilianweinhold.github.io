@@ -10,7 +10,7 @@ I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and insta
 <br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften all electrostatic destruction featuring agglumentous cratering. Micrometeriotes and silicate shards? Tricky. Micrometiorites?  
 <br>
-Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint good trouble art, or journal or write or play football or keep us and each other safe and alive and kind. If you do none of these, I was always a good listener, and actually first found a degree in psychology. 
+Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint good trouble or kind heart art, or journal or write or play football or keep us and each other safe and alive and kind. If you do none of these, I was always a good listener, and actually first found a degree listening in psychology. 
 
 <br>
 
