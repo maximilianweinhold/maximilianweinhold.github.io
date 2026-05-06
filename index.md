@@ -14,7 +14,7 @@ Since then, I've tried to understand an ethical neuroscience and some else. I bu
 
 <br>
 
-I study Ecological Economics, and am presently re-drafting my dissertation on how actors respond in opportune institutions, with a focus on including more-than-human actors. I was formerly a behavioral, computational neuroscientist at the U.S. National Institute of Neurological Disorders, Stroke where I modeled neural pathways and representations in speech-motor disorders or more kindly: unkindly patterned patterns and interjecting puncta. At the moment I'm particularly interested in fractal ecosystem restoration, why does life always rely on water, can't forget about aquatic mycelia, and as always carbon in soils. 
+I study Ecological Economics, and am presently re-drafting my dissertation on how actors respond in opportune institutions, with a focus on including more-than-human actors. I was formerly a behavioral, computational neuroscientist fellow at the U.S. National Institute of Neurological Disorders, Stroke where I modeled neural pathways and representations in speech-motor disorders or more kindly: unkindly patterned patterns and interjecting puncta. At the moment I'm particularly interested in fractal ecosystem restoration, why does life always rely on water, can't forget about aquatic mycelia, and as always carbon in soils. 
 
 <br>
 Can we build an ethical more-than-human DAO? At least an assemblage, I bet. 
