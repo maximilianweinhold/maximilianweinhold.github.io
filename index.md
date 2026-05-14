@@ -48,9 +48,7 @@ Can we build an ethical more-than-human DAO? At least an assemblage, I bet.
 
 ## Research Interests
 
-自然我可以想一想，计划你供应链，请把三个月多给我。
-
-Supply chains exist as a sequence of nodes in a database. From a distal node to you. In each node we choose one or multiple parties to trade with. Our relationship with those parties depends on prevailing economic factors, or familiarty and locallity. Lots of ways to gunk _crasse_ a chain!  
+Supply chains exist as a sequence of nodes in a database. From a distal node to you. In each node we choose one or multiple parties to trade with. Our relationship with those parties depends on prevailing economic factors, or familiarty and locallity. Lots of ways to gunk _crasse_ and fix a chain!  
 
 As a global citizen and humanitarian, I work to promote the welfare of people and societies, local and global, whenever I can. Realistically, it looks like a friendly face at a watch shop or just some guy. The polycrisis is more fun when we're collaborating. 
 
@@ -70,5 +68,5 @@ Join me writing games in a tailor space, a drop below _h._ Planck.
 
 And if you want some of my latest musings, now with type check, situate yourself just outside of a cosmological longevity object: 
 [An order-ambivalent presentation-dependent allocation of operators to solving vacuum and gravity problems](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/main/initiatives/A%20game%20of%20association.pptx)
-
+Can we recover the Planck length with an application of stars? 
 
