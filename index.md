@@ -68,4 +68,7 @@ Join me writing games in a tailor space, a drop below _h._ Planck.
 
 [bwqs](https://github.com/maximilianweinhold/spacetime/)
 
+And if you want some of my latest musings, now with type check, situate yourself just outside of a cosmological longevity object: 
+[An order-ambivalent presentation-dependent allocation of operators to solving vacuum and gravity problems](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/main/initiatives/A%20game%20of%20association.pptx)
+
 
