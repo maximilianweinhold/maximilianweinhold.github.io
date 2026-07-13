@@ -6,7 +6,7 @@
 </head>
 <body>
 
-I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](/initiatives/A game of association.pptx)
+I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/bd25944d2df5c0ba399b5e979dbd24a5a9348eda/initiatives/A%20game%20of%20association.pptx))
 <br>
 <br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habs together! 
