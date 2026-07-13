@@ -8,16 +8,17 @@
 
 I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](initiatives/A game of association.pptx)
 <br>
-Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool.  One day you or I will design tomorrow's habs. 
+<br>
+Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habs together! 
+<br>
 <br>
 Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint or whittle or finish or sand dust or carve, or journal or write or play footy. If you do none of these, I'm sure you'll tell me all about your other interests; I was always a good listener, and actually first found a degree listening in psychology. 
 
 <br>
+<br>
 
 I study Ecological Economics, and am presently re-drafting my dissertation on how actors respond in opportune institutions, with a focus on including more-than-human actors. I was formerly a behavioral, computational neuroscientist fellow at the U.S. National Institute of Neurological Disorders, Stroke where I modeled neural pathways and representations in speech-motor disorders or more kindly: unkindly patterned patterns and interjecting puncta. At the moment I'm particularly interested in fractal ecosystem restoration, why does life always rely on water, can't forget about aquatic mycelia, and as always carbon in soils. 
 
-<br>
-Can we build an ethical more-than-human DAO? At least an assemblage, I bet. 
 
 <!--div defines a division or section -->
 <strong style = "text-align:center">
