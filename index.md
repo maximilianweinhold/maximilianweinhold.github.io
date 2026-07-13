@@ -6,7 +6,7 @@
 </head>
 <body>
 
-I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count or not at all. 
+I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](initiatives/A game of association.pptx)
 <br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool.  One day you or I will design tomorrow's habs. 
 <br>
@@ -29,7 +29,7 @@ Can we build an ethical more-than-human DAO? At least an assemblage, I bet.
 </body>
 </html>
 
-![A younger image of me, still with all my teeth](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
+![A younger image of me, look at that pearly grin!](https://user-images.githubusercontent.com/95586072/162780826-d2a7922b-0d67-4a65-b1bd-4ac61a66c8a0.jpg)
 
 ## Publications
 • Weinhold, M., A Decentralized More-than-Human World, or, How Can Slime Molds Build Social Movements or 'In pursuit of decentralization: theoretical, biological, and more-than-human considerations for institutional design'. Hosted at [Preprints.org](https://www.preprints.org/manuscript/202409.2239/v1)
