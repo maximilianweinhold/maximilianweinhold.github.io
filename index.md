@@ -9,7 +9,7 @@
 I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/bd25944d2df5c0ba399b5e979dbd24a5a9348eda/initiatives/A%20game%20of%20association.pptx))
 <br>
 <br>
-Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habs together! 
+Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habitat doors and scrubs together! 
 <br>
 <br>
 Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint or whittle or finish or sand dust or carve, or journal or write or play footy. If you do none of these, I'm sure you'll tell me all about your other interests; I was always a good listener, and actually first found a degree listening in psychology. 
