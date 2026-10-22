@@ -6,7 +6,7 @@
 </head>
 <body>
 
-I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold. I have a Master's in Ecological Economics which guides one rung of my thinking, a Bachelor's, which guides at least two more, and many years living as a student in beautiful places. This is my most recent presentation: [A game of association](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/bd25944d2df5c0ba399b5e979dbd24a5a9348eda/initiatives/A%20game%20of%20association.pptx))
+I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold. I have a Master's in Ecological Economics which guides one rung of my thinking, a Bachelor's, which guides at least two more, and many years living as a student in beautiful places. 
 <br>
 <br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habitat doors and scrubs together! 
@@ -63,8 +63,7 @@ Only the beginnings of a closed-loop algae-cultivation bioreactor for carbon seq
 My diss. was published under another name at: [slime molds and coconut trees](https://www.preprints.org/manuscript/202409.2239)
 
 
-
-And if you want some of my latest musings, now with type check, situate yourself just outside of a cosmological longevity object: 
+For my latest presentation: 
 [An order-ambivalent presentation-dependent allocation of operators to solving vacuum and gravity problems](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/main/initiatives/A%20game%20of%20association.pptx)
 Can we recover the Planck length with an application of stars? 
 
