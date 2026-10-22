@@ -6,14 +6,13 @@
 </head>
 <body>
 
-I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold,  minted with a Master's in Ecological Economics, my 10 year old wallet is 40% penny by item count. Find my latest typecheck on cosmological operators here: [A game of association](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/bd25944d2df5c0ba399b5e979dbd24a5a9348eda/initiatives/A%20game%20of%20association.pptx))
+I'm Max,  my email is max.s.weinhold(*@*)gmail.com I appear on bluesky and instagram as gardenweinhold. I have a Master's in Ecological Economics which guides one rung of my thinking, a Bachelor's, which guides at least two more, and many years living as a student in beautiful places. This is my most recent presentation: [A game of association](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/bd25944d2df5c0ba399b5e979dbd24a5a9348eda/initiatives/A%20game%20of%20association.pptx))
 <br>
 <br>
 Many years back I studied lunar dust, and by contact with the first engineers of the kind became charged, seeking to soften the chemistry of micrometeorites and silicate shards. Tricky, cool. We could build tomorrow's lunar habitat doors and scrubs together! 
 <br>
 <br>
-Since then, I've tried to understand an ethical neuroscience and some else. I build gardens in my spare time, and hope you do too; or at least paint or whittle or finish or sand dust or carve, or journal or write or play footy. If you do none of these, I'm sure you'll tell me all about your other interests; I was always a good listener, and actually first found a degree listening in psychology. 
-
+My self-produced art is horrifyingly organic and I enjoy sketching. Whittle with me on a spacetime? [bwqs](https://github.com/maximilianweinhold/spacetime/)
 <br>
 <br>
 
@@ -63,9 +62,7 @@ Only the beginnings of a closed-loop algae-cultivation bioreactor for carbon seq
 
 My diss. was published under another name at: [slime molds and coconut trees](https://www.preprints.org/manuscript/202409.2239)
 
-Join me writing games in a tailor space, a drop below _h._ Planck.
 
-[bwqs](https://github.com/maximilianweinhold/spacetime/)
 
 And if you want some of my latest musings, now with type check, situate yourself just outside of a cosmological longevity object: 
 [An order-ambivalent presentation-dependent allocation of operators to solving vacuum and gravity problems](https://github.com/maximilianweinhold/maximilianweinhold.github.io/blob/main/initiatives/A%20game%20of%20association.pptx)
